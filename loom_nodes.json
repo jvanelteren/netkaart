@@ -1,0 +1,4961 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.466389922585115,
+          52.27620142105291
+        ]
+      },
+      "properties": {
+        "id": "Nieuwegein",
+        "station_label": " Nieuwegein  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.230043336711502,
+          52.175207837926294
+        ]
+      },
+      "properties": {
+        "id": "Borssele",
+        "station_label": " Borssele  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.490703717499837,
+          52.32801043988157
+        ]
+      },
+      "properties": {
+        "id": "Almere",
+        "station_label": " Almere  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.742658842733288,
+          52.31436285051196
+        ]
+      },
+      "properties": {
+        "id": "Hengelo Weideweg",
+        "station_label": " Hengelo Weideweg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.689223744980193,
+          52.47031539394199
+        ]
+      },
+      "properties": {
+        "id": "Vierverlaten",
+        "station_label": " Vierverlaten  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.53660077912359,
+          52.363902910614556
+        ]
+      },
+      "properties": {
+        "id": "Lelystad",
+        "station_label": " Lelystad  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.358021999562851,
+          52.19276734140943
+        ]
+      },
+      "properties": {
+        "id": "Roosendaal",
+        "station_label": " Roosendaal  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.467992259668075,
+          52.23479498827855
+        ]
+      },
+      "properties": {
+        "id": "Zuilichem",
+        "station_label": " Zuilichem  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.373193221560984,
+          52.21513475974913
+        ]
+      },
+      "properties": {
+        "id": "Shell Moerdijk",
+        "station_label": " Shell Moerdijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.237306945656713,
+          52.158424493404425
+        ]
+      },
+      "properties": {
+        "id": "Terneuzen",
+        "station_label": " Terneuzen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.574097762649326,
+          52.35047742405862
+        ]
+      },
+      "properties": {
+        "id": "Dronten Olsterpad",
+        "station_label": " Dronten Olsterpad  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.385498940063844,
+          52.28945948135162
+        ]
+      },
+      "properties": {
+        "id": "Alphen a/d Rijn",
+        "station_label": " Alphen a/d Rijn  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.449164531972148,
+          52.32415146407147
+        ]
+      },
+      "properties": {
+        "id": "Diemen",
+        "station_label": " Diemen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.58122567175033,
+          52.37043620307453
+        ]
+      },
+      "properties": {
+        "id": "Ens",
+        "station_label": " Ens  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383616026307896,
+          52.253796515840385
+        ]
+      },
+      "properties": {
+        "id": "Krimpen a/d IJssel",
+        "station_label": " Krimpen a/d IJssel  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3393820183482585,
+          52.249581344856814
+        ]
+      },
+      "properties": {
+        "id": "Pernis Butaanweg",
+        "station_label": " Pernis Butaanweg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.752743917821557,
+          52.50674719664343
+        ]
+      },
+      "properties": {
+        "id": "Oostpolder",
+        "station_label": " Oostpolder  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.720326892851202,
+          52.2879262536244
+        ]
+      },
+      "properties": {
+        "id": "Eibergen",
+        "station_label": " Eibergen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.374890408308575,
+          52.21593068963592
+        ]
+      },
+      "properties": {
+        "id": "WKC Moerdijk",
+        "station_label": " WKC Moerdijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.689615006393059,
+          52.47002602833719
+        ]
+      },
+      "properties": {
+        "id": "Vierverlaten",
+        "station_label": " Vierverlaten  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7523492847715785,
+          52.50822958523527
+        ]
+      },
+      "properties": {
+        "id": "Eemshaven Oudeschip",
+        "station_label": " Eemshaven Oudeschip  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.460559233429256,
+          52.21883043873688
+        ]
+      },
+      "properties": {
+        "id": "Waalwijk",
+        "station_label": " Waalwijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.709323981420736,
+          52.469461905164295
+        ]
+      },
+      "properties": {
+        "id": "Groningen Hunze",
+        "station_label": " Groningen Hunze  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.765454904896186,
+          52.39582238409273
+        ]
+      },
+      "properties": {
+        "id": "Bargermeer",
+        "station_label": " Bargermeer  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.616291563260399,
+          52.46974311892785
+        ]
+      },
+      "properties": {
+        "id": "Bergum",
+        "station_label": " Bergum  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.591707114997118,
+          52.46613182760946
+        ]
+      },
+      "properties": {
+        "id": "Louwsmeer",
+        "station_label": " Louwsmeer  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.520667038056212,
+          52.25080686967995
+        ]
+      },
+      "properties": {
+        "id": "Tiel",
+        "station_label": " Tiel  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.327635691553142,
+          52.1799056953783
+        ]
+      },
+      "properties": {
+        "id": "Woensdrecht",
+        "station_label": " Woensdrecht  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.449689951496767,
+          52.324030420889045
+        ]
+      },
+      "properties": {
+        "id": "Diemen",
+        "station_label": " Diemen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.627790153456959,
+          52.432402480600295
+        ]
+      },
+      "properties": {
+        "id": "Gorredijk",
+        "station_label": " Gorredijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.655585664285357,
+          52.264767239768595
+        ]
+      },
+      "properties": {
+        "id": "Doetinchem",
+        "station_label": " Doetinchem  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.384087075879902,
+          52.349383869946216
+        ]
+      },
+      "properties": {
+        "id": "Wijk aan Zee",
+        "station_label": " Wijk aan Zee  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.312846860877859,
+          52.17254200205106
+        ]
+      },
+      "properties": {
+        "id": "Rilland",
+        "station_label": " Rilland  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.690395775196063,
+          52.47005545135949
+        ]
+      },
+      "properties": {
+        "id": "Vierverlaten",
+        "station_label": " Vierverlaten  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.678158187883158,
+          52.29584186145606
+        ]
+      },
+      "properties": {
+        "id": "Lochem",
+        "station_label": " Lochem  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.320243620513229,
+          52.250211160617695
+        ]
+      },
+      "properties": {
+        "id": "Merseyweg",
+        "station_label": " Merseyweg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.417537424372215,
+          52.21827613640032
+        ]
+      },
+      "properties": {
+        "id": "Geertruidenberg",
+        "station_label": " Geertruidenberg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.754118118344783,
+          52.50624311403734
+        ]
+      },
+      "properties": {
+        "id": "Eemshaven",
+        "station_label": " Eemshaven  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.543361974052898,
+          52.24646737800082
+        ]
+      },
+      "properties": {
+        "id": "Druten",
+        "station_label": " Druten  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.532302862855711,
+          52.35077061922678
+        ]
+      },
+      "properties": {
+        "id": "Zuiderveld",
+        "station_label": " Zuiderveld  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.482271999132052,
+          52.33244776459905
+        ]
+      },
+      "properties": {
+        "id": "Almere Markerkant",
+        "station_label": " Almere Markerkant  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.545630729891034,
+          52.34279669781436
+        ]
+      },
+      "properties": {
+        "id": "Kubbetocht",
+        "station_label": " Kubbetocht  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.556631759555269,
+          52.354181127948024
+        ]
+      },
+      "properties": {
+        "id": "Dronten",
+        "station_label": " Dronten  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.550048800909552,
+          52.29509006171616
+        ]
+      },
+      "properties": {
+        "id": "Harselaar",
+        "station_label": " Harselaar  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.763112891345504,
+          52.39743418041628
+        ]
+      },
+      "properties": {
+        "id": "AKZO Emmen",
+        "station_label": " AKZO Emmen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.321792079259096,
+          52.186305751147934
+        ]
+      },
+      "properties": {
+        "id": "Bergen op Zoom",
+        "station_label": " Bergen op Zoom  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.730483312619365,
+          52.378438389601534
+        ]
+      },
+      "properties": {
+        "id": "Coevorden",
+        "station_label": " Coevorden  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6912920414409705,
+          52.33013677403176
+        ]
+      },
+      "properties": {
+        "id": "Nijverdal",
+        "station_label": " Nijverdal  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.415343002359795,
+          52.32417567855139
+        ]
+      },
+      "properties": {
+        "id": "Nieuwe Meer",
+        "station_label": " Nieuwe Meer  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.698111238100012,
+          52.43650815481881
+        ]
+      },
+      "properties": {
+        "id": "Zeyerveen",
+        "station_label": " Zeyerveen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.601809574053362,
+          52.125633307437
+        ]
+      },
+      "properties": {
+        "id": "Maasbracht",
+        "station_label": " Maasbracht  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.693575374479115,
+          52.493219557376406
+        ]
+      },
+      "properties": {
+        "id": "Winsum Ranum",
+        "station_label": " Winsum Ranum  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.245836206705755,
+          52.14674763058982
+        ]
+      },
+      "properties": {
+        "id": "Westdorpe",
+        "station_label": " Westdorpe  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.403548575783812,
+          52.236888312177044
+        ]
+      },
+      "properties": {
+        "id": "Crayestein",
+        "station_label": " Crayestein  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.58603291734587,
+          52.24962766073679
+        ]
+      },
+      "properties": {
+        "id": "Oosterhout",
+        "station_label": " Oosterhout  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.650474378036405,
+          52.29284181596021
+        ]
+      },
+      "properties": {
+        "id": "Zutphen",
+        "station_label": " Zutphen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7532748385625725,
+          52.50819848379406
+        ]
+      },
+      "properties": {
+        "id": "Eemshaven Comp. en Filteren",
+        "station_label": " Eemshaven Comp. en Filteren  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.754071112177853,
+          52.50619445623334
+        ]
+      },
+      "properties": {
+        "id": "Robbenplaat",
+        "station_label": " Robbenplaat  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.56960667360486,
+          52.146289406765106
+        ]
+      },
+      "properties": {
+        "id": "Nederweert",
+        "station_label": " Nederweert  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.698643950055204,
+          52.436546502236844
+        ]
+      },
+      "properties": {
+        "id": "Zeyerveen",
+        "station_label": " Zeyerveen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.55402874492951,
+          52.32209154018918
+        ]
+      },
+      "properties": {
+        "id": "Harderwijk",
+        "station_label": " Harderwijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.53589622959748,
+          52.363578452218924
+        ]
+      },
+      "properties": {
+        "id": "Lelystad",
+        "station_label": " Lelystad  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.34945882228047,
+          52.25364631282121
+        ]
+      },
+      "properties": {
+        "id": "Rotterdam Marconistraat",
+        "station_label": " Rotterdam Marconistraat  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.523437217738466,
+          52.32538061880545
+        ]
+      },
+      "properties": {
+        "id": "Zeewolde",
+        "station_label": " Zeewolde  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.626311667735262,
+          52.34346055457331
+        ]
+      },
+      "properties": {
+        "id": "Hattem",
+        "station_label": " Hattem  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.475400779578001,
+          52.3293436504245
+        ]
+      },
+      "properties": {
+        "id": "Pampus",
+        "station_label": " Pampus  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.490503186887016,
+          52.33502537965521
+        ]
+      },
+      "properties": {
+        "id": "Almere De Vaart",
+        "station_label": " Almere De Vaart  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.419075685575783,
+          52.2172743264002
+        ]
+      },
+      "properties": {
+        "id": "Geertruidenberg",
+        "station_label": " Geertruidenberg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.73313374583483,
+          52.29347511609669
+        ]
+      },
+      "properties": {
+        "id": "Haaksbergen",
+        "station_label": " Haaksbergen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.767281562901617,
+          52.45619214211999
+        ]
+      },
+      "properties": {
+        "id": "Meeden",
+        "station_label": " Meeden  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.766928112021067,
+          52.45662600901729
+        ]
+      },
+      "properties": {
+        "id": "Meeden",
+        "station_label": " Meeden  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.742658842733288,
+          52.31436285051196
+        ]
+      },
+      "properties": {
+        "id": "Hengelo Weideweg",
+        "station_label": " Hengelo Weideweg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3276564641993005,
+          52.275489068038425
+        ]
+      },
+      "properties": {
+        "id": "Rijswijk",
+        "station_label": " Rijswijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.349012624978266,
+          52.24917785950613
+        ]
+      },
+      "properties": {
+        "id": "Rotterdam Waalhaven",
+        "station_label": " Rotterdam Waalhaven  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.365375153399555,
+          52.27559893787928
+        ]
+      },
+      "properties": {
+        "id": "Zoetermeer",
+        "station_label": " Zoetermeer  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.634269501035629,
+          52.32755655190216
+        ]
+      },
+      "properties": {
+        "id": "Olst",
+        "station_label": " Olst  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4014715109387215,
+          52.26919218274421
+        ]
+      },
+      "properties": {
+        "id": "Gouda",
+        "station_label": " Gouda  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.37908477479368,
+          52.196923617382375
+        ]
+      },
+      "properties": {
+        "id": "Etten",
+        "station_label": " Etten  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.315402554207698,
+          52.264904021560035
+        ]
+      },
+      "properties": {
+        "id": "De Lier",
+        "station_label": " De Lier  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5861377936188905,
+          52.10931193279537
+        ]
+      },
+      "properties": {
+        "id": "Born",
+        "station_label": " Born  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7531553376422275,
+          52.50790962597801
+        ]
+      },
+      "properties": {
+        "id": "Waddenweg Converterstation 380 kV",
+        "station_label": " Waddenweg Converterstation 380 kV  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.581445442070646,
+          52.37086195973473
+        ]
+      },
+      "properties": {
+        "id": "Ens",
+        "station_label": " Ens  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.229727954200014,
+          52.17576309923655
+        ]
+      },
+      "properties": {
+        "id": "Borssele",
+        "station_label": " Borssele  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383980749588689,
+          52.25360949942831
+        ]
+      },
+      "properties": {
+        "id": "Krimpen a/d IJssel",
+        "station_label": " Krimpen a/d IJssel  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3909943057223515,
+          52.24290585292164
+        ]
+      },
+      "properties": {
+        "id": "Alblasserdam",
+        "station_label": " Alblasserdam  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3552185429608015,
+          52.25246641106542
+        ]
+      },
+      "properties": {
+        "id": "Rotterdam Centrum",
+        "station_label": " Rotterdam Centrum  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.397517886468987,
+          52.23774117702002
+        ]
+      },
+      "properties": {
+        "id": "Dordrecht Merwedehaven",
+        "station_label": " Dordrecht Merwedehaven  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3667693088126,
+          52.27449042439212
+        ]
+      },
+      "properties": {
+        "id": "Hoge snelheidslijn",
+        "station_label": " Hoge snelheidslijn  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.383447378607131,
+          52.34933161205366
+        ]
+      },
+      "properties": {
+        "id": "Hollandse Kust Noord Landstation",
+        "station_label": " Hollandse Kust Noord Landstation  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.692414590951065,
+          52.31860426679086
+        ]
+      },
+      "properties": {
+        "id": "Rijssen",
+        "station_label": " Rijssen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.741041390751659,
+          52.510215459728535
+        ]
+      },
+      "properties": {
+        "id": "Eemshaven Midden",
+        "station_label": " Eemshaven Midden  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.311248997836167,
+          52.22645278944989
+        ]
+      },
+      "properties": {
+        "id": "Middelharnis",
+        "station_label": " Middelharnis  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.305420888589877,
+          52.262150415066
+        ]
+      },
+      "properties": {
+        "id": "Hoek van Holland",
+        "station_label": " Hoek van Holland  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.771532484154905,
+          52.4314682704815
+        ]
+      },
+      "properties": {
+        "id": "Stadskanaal",
+        "station_label": " Stadskanaal  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.616182237954732,
+          52.46991245658975
+        ]
+      },
+      "properties": {
+        "id": "Bergum",
+        "station_label": " Bergum  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.49956094966337,
+          52.19702916486267
+        ]
+      },
+      "properties": {
+        "id": "Boxtel",
+        "station_label": " Boxtel  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.339999403678684,
+          52.266816405346724
+        ]
+      },
+      "properties": {
+        "id": "Delft",
+        "station_label": " Delft  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.753018572278949,
+          52.50773053037554
+        ]
+      },
+      "properties": {
+        "id": "Eemshaven Converterstation 380 kV",
+        "station_label": " Eemshaven Converterstation 380 kV  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2298501524633005,
+          52.17502044351368
+        ]
+      },
+      "properties": {
+        "id": "Zeeuwse Kust Landstation",
+        "station_label": " Zeeuwse Kust Landstation  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.327223628099408,
+          52.28145558212511
+        ]
+      },
+      "properties": {
+        "id": "s Gravenhage",
+        "station_label": " s Gravenhage  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.334948654490829,
+          52.28115313380927
+        ]
+      },
+      "properties": {
+        "id": "Voorburg",
+        "station_label": " Voorburg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.315642283540462,
+          52.265831678040854
+        ]
+      },
+      "properties": {
+        "id": "Westerlee",
+        "station_label": " Westerlee  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.366995783451868,
+          52.26083688911611
+        ]
+      },
+      "properties": {
+        "id": "Ommoord",
+        "station_label": " Ommoord  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.758202111659603,
+          52.30656871237331
+        ]
+      },
+      "properties": {
+        "id": "Enschede Heekstraat",
+        "station_label": " Enschede Heekstraat  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.753498659948577,
+          52.50719298696283
+        ]
+      },
+      "properties": {
+        "id": "Eemshaven Oost",
+        "station_label": " Eemshaven Oost  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3158837115008275,
+          52.26597594545352
+        ]
+      },
+      "properties": {
+        "id": "Westerlee",
+        "station_label": " Westerlee  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.326433999750596,
+          52.24697476473124
+        ]
+      },
+      "properties": {
+        "id": "Exxon Mobile Rotterdam",
+        "station_label": " Exxon Mobile Rotterdam  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.61216305237209,
+          52.41481055891226
+        ]
+      },
+      "properties": {
+        "id": "Wolvega",
+        "station_label": " Wolvega  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.582024923130128,
+          52.0915971905289
+        ]
+      },
+      "properties": {
+        "id": "Beek",
+        "station_label": " Beek  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.606194224361445,
+          52.36311256023693
+        ]
+      },
+      "properties": {
+        "id": "IJsselmuiden ",
+        "station_label": " IJsselmuiden   "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.44404057744089,
+          52.24649471571398
+        ]
+      },
+      "properties": {
+        "id": "Arkel",
+        "station_label": " Arkel  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.631223698974844,
+          52.3462032198953
+        ]
+      },
+      "properties": {
+        "id": "Harculo",
+        "station_label": " Harculo  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.601834029549182,
+          52.38157337668192
+        ]
+      },
+      "properties": {
+        "id": "NOP Voorsterweg",
+        "station_label": " NOP Voorsterweg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.33864392467142,
+          52.247723108949316
+        ]
+      },
+      "properties": {
+        "id": "Oudeland",
+        "station_label": " Oudeland  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.455412419729761,
+          52.27868860521601
+        ]
+      },
+      "properties": {
+        "id": "Oudenrijn",
+        "station_label": " Oudenrijn  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.643994274361426,
+          52.35657590450735
+        ]
+      },
+      "properties": {
+        "id": "Zwolle Hessenweg",
+        "station_label": " Zwolle Hessenweg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2972272424096,
+          52.25934737231518
+        ]
+      },
+      "properties": {
+        "id": "Dintelhaven",
+        "station_label": " Dintelhaven  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.466538706051833,
+          52.38375261170734
+        ]
+      },
+      "properties": {
+        "id": "Westwoud",
+        "station_label": " Westwoud  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3507627919193155,
+          52.193111258353035
+        ]
+      },
+      "properties": {
+        "id": "Roosendaal Borchwerf",
+        "station_label": " Roosendaal Borchwerf  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.608338203752496,
+          52.30130890856959
+        ]
+      },
+      "properties": {
+        "id": "Apeldoorn",
+        "station_label": " Apeldoorn  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5956728967506,
+          52.26950936508632
+        ]
+      },
+      "properties": {
+        "id": "Kattenberg",
+        "station_label": " Kattenberg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.564957714583705,
+          52.07830746883206
+        ]
+      },
+      "properties": {
+        "id": "Limmel",
+        "station_label": " Limmel  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7568089731851755,
+          52.45071572954464
+        ]
+      },
+      "properties": {
+        "id": "Veendam",
+        "station_label": " Veendam  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.740266456395896,
+          52.334314076861574
+        ]
+      },
+      "properties": {
+        "id": "Tubbergen",
+        "station_label": " Tubbergen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.49590715132566,
+          52.219240509107394
+        ]
+      },
+      "properties": {
+        "id": "s Hertogenbosch Noord",
+        "station_label": " s Hertogenbosch Noord  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.703513379976715,
+          52.28853246944206
+        ]
+      },
+      "properties": {
+        "id": "Borculo",
+        "station_label": " Borculo  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.708089743888067,
+          52.437315085772
+        ]
+      },
+      "properties": {
+        "id": "Marsdijk",
+        "station_label": " Marsdijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.600441799594754,
+          52.126001009901536
+        ]
+      },
+      "properties": {
+        "id": "Maasbracht",
+        "station_label": " Maasbracht  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.587712586915952,
+          52.22452631148415
+        ]
+      },
+      "properties": {
+        "id": "Cuyk",
+        "station_label": " Cuyk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3931464085684,
+          52.34690524944579
+        ]
+      },
+      "properties": {
+        "id": "Beverwijk",
+        "station_label": " Beverwijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.609754641342376,
+          52.084007785150554
+        ]
+      },
+      "properties": {
+        "id": "Huskensweg",
+        "station_label": " Huskensweg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.712033840668206,
+          52.310109014761125
+        ]
+      },
+      "properties": {
+        "id": "Goor",
+        "station_label": " Goor  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.709303151983651,
+          52.47009035613019
+        ]
+      },
+      "properties": {
+        "id": "Groningen Bornholmstraat",
+        "station_label": " Groningen Bornholmstraat  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.583333922638601,
+          52.238315345871435
+        ]
+      },
+      "properties": {
+        "id": "Philips",
+        "station_label": " Philips  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3619873131402525,
+          52.29624995937837
+        ]
+      },
+      "properties": {
+        "id": "Leiden",
+        "station_label": " Leiden  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.704259846826045,
+          52.4727761101638
+        ]
+      },
+      "properties": {
+        "id": "Groningen Bloemsingel",
+        "station_label": " Groningen Bloemsingel  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.490638433770168,
+          52.163420305171336
+        ]
+      },
+      "properties": {
+        "id": "Hapert",
+        "station_label": " Hapert  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.53104019371266,
+          52.44486598219379
+        ]
+      },
+      "properties": {
+        "id": "Marnezijl",
+        "station_label": " Marnezijl  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.36233670676802,
+          52.24805874502766
+        ]
+      },
+      "properties": {
+        "id": "Rotterdam Zuidwijk",
+        "station_label": " Rotterdam Zuidwijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.435177331720121,
+          52.32058523813603
+        ]
+      },
+      "properties": {
+        "id": "Bijlmer Noord",
+        "station_label": " Bijlmer Noord  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.633887704340077,
+          52.166128889022026
+        ]
+      },
+      "properties": {
+        "id": "Boekend",
+        "station_label": " Boekend  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.325078411949188,
+          52.24704391469705
+        ]
+      },
+      "properties": {
+        "id": "Botlek",
+        "station_label": " Botlek  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.318897504210672,
+          52.249465987934386
+        ]
+      },
+      "properties": {
+        "id": "Theemsweg\u00c2\u00a0",
+        "station_label": " Theemsweg\u00c2\u00a0  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.325261369509327,
+          52.24586577647114
+        ]
+      },
+      "properties": {
+        "id": "Geervliet Noorddijk",
+        "station_label": " Geervliet Noorddijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.619310645484832,
+          52.30033443831864
+        ]
+      },
+      "properties": {
+        "id": "Woudhuis",
+        "station_label": " Woudhuis  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.322554277375175,
+          52.24191344989537
+        ]
+      },
+      "properties": {
+        "id": "Simonshaven",
+        "station_label": " Simonshaven  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.609186125142664,
+          52.13847554702809
+        ]
+      },
+      "properties": {
+        "id": "Buggenum",
+        "station_label": " Buggenum  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.747041685738919,
+          52.484034949117316
+        ]
+      },
+      "properties": {
+        "id": "Slochteren Dellerweerden",
+        "station_label": " Slochteren Dellerweerden  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.697306509348412,
+          52.399960693694766
+        ]
+      },
+      "properties": {
+        "id": "Wijster GAVI",
+        "station_label": " Wijster GAVI  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.32508316359933,
+          52.24588610016771
+        ]
+      },
+      "properties": {
+        "id": "Geervliet",
+        "station_label": " Geervliet  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.744434650378486,
+          52.30755212934915
+        ]
+      },
+      "properties": {
+        "id": "Hengelo AVI",
+        "station_label": " Hengelo AVI  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.736334253984828,
+          52.4694988201442
+        ]
+      },
+      "properties": {
+        "id": "Slochteren Kooipolder",
+        "station_label": " Slochteren Kooipolder  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.561155262306961,
+          52.17856177592756
+        ]
+      },
+      "properties": {
+        "id": "Helmond Oost",
+        "station_label": " Helmond Oost  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.445051501726868,
+          52.299391569391275
+        ]
+      },
+      "properties": {
+        "id": "Breukelen",
+        "station_label": " Breukelen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.596822345276448,
+          52.392400110061345
+        ]
+      },
+      "properties": {
+        "id": "Luttelgeest Kalenbergerweg",
+        "station_label": " Luttelgeest Kalenbergerweg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.440357559149459,
+          52.32701384608789
+        ]
+      },
+      "properties": {
+        "id": "Watergraafsmeer",
+        "station_label": " Watergraafsmeer  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.422480540791807,
+          52.38985334842352
+        ]
+      },
+      "properties": {
+        "id": "De Weel",
+        "station_label": " De Weel  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.734928885940152,
+          52.480575619183305
+        ]
+      },
+      "properties": {
+        "id": "Slochteren Paauwen",
+        "station_label": " Slochteren Paauwen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7726076500820325,
+          52.48791445053597
+        ]
+      },
+      "properties": {
+        "id": "Delfzijl Farmsum",
+        "station_label": " Delfzijl Farmsum  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433682913705493,
+          52.328988714453885
+        ]
+      },
+      "properties": {
+        "id": "Amsterdam Hoogte Kadijk",
+        "station_label": " Amsterdam Hoogte Kadijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.662519100101098,
+          52.482147501718465
+        ]
+      },
+      "properties": {
+        "id": "Grijpskerk",
+        "station_label": " Grijpskerk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.574713856093411,
+          52.46694460917271
+        ]
+      },
+      "properties": {
+        "id": "Schenkenschans",
+        "station_label": " Schenkenschans  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.656189579163186,
+          52.265069784955124
+        ]
+      },
+      "properties": {
+        "id": "Langerak",
+        "station_label": " Langerak  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5584589948189,
+          52.256030498442634
+        ]
+      },
+      "properties": {
+        "id": "Dodewaard",
+        "station_label": " Dodewaard  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.622785790469503,
+          52.28420948601456
+        ]
+      },
+      "properties": {
+        "id": "Eerbeek Schoonmansmolen",
+        "station_label": " Eerbeek Schoonmansmolen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.390773904272975,
+          52.233289725591206
+        ]
+      },
+      "properties": {
+        "id": "Dordrecht Zuid",
+        "station_label": " Dordrecht Zuid  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.458121184820537,
+          52.28525429428277
+        ]
+      },
+      "properties": {
+        "id": "Utrecht Lage Weide",
+        "station_label": " Utrecht Lage Weide  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.59957915907088,
+          52.20760690664361
+        ]
+      },
+      "properties": {
+        "id": "Boxmeer",
+        "station_label": " Boxmeer  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2166105992658425,
+          52.18455735355681
+        ]
+      },
+      "properties": {
+        "id": "Middelburg",
+        "station_label": " Middelburg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.444426991056195,
+          52.29457675963483
+        ]
+      },
+      "properties": {
+        "id": "Breukelen Kortrijk",
+        "station_label": " Breukelen Kortrijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.313840810863852,
+          52.1730246745288
+        ]
+      },
+      "properties": {
+        "id": "Rilland",
+        "station_label": " Rilland  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.556965795834378,
+          52.255479198857316
+        ]
+      },
+      "properties": {
+        "id": "Dodewaard",
+        "station_label": " Dodewaard  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.537696832381712,
+          52.27168757049313
+        ]
+      },
+      "properties": {
+        "id": "Veenendaal 't Goeie Spoor",
+        "station_label": " Veenendaal 't Goeie Spoor  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.739570417053838,
+          52.3099028245329
+        ]
+      },
+      "properties": {
+        "id": "Hengelo",
+        "station_label": " Hengelo  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.390731979426634,
+          52.33386033233688
+        ]
+      },
+      "properties": {
+        "id": "Waarderpolder",
+        "station_label": " Waarderpolder  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.430736916163845,
+          52.334970872111334
+        ]
+      },
+      "properties": {
+        "id": "Amsterdam Noord Klaprozenweg",
+        "station_label": " Amsterdam Noord Klaprozenweg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.644325732470817,
+          52.35649022392264
+        ]
+      },
+      "properties": {
+        "id": "Zwolle",
+        "station_label": " Zwolle  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.552082703179614,
+          52.15393497458288
+        ]
+      },
+      "properties": {
+        "id": "Maarheeze",
+        "station_label": " Maarheeze  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.530995729477408,
+          52.46494097297377
+        ]
+      },
+      "properties": {
+        "id": "Herbayum",
+        "station_label": " Herbayum  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.38714195311922,
+          52.320132242593374
+        ]
+      },
+      "properties": {
+        "id": "Haarlemmermeer",
+        "station_label": " Haarlemmermeer  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.739806634757221,
+          52.30993659849715
+        ]
+      },
+      "properties": {
+        "id": "Hengelo Oele",
+        "station_label": " Hengelo Oele  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.701278736262706,
+          52.47049969363712
+        ]
+      },
+      "properties": {
+        "id": "Groningen v. Heemskerkstraat",
+        "station_label": " Groningen v. Heemskerkstraat  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.329628214111248,
+          52.27134950065174
+        ]
+      },
+      "properties": {
+        "id": "Wateringen",
+        "station_label": " Wateringen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.710444470930138,
+          52.25937115519581
+        ]
+      },
+      "properties": {
+        "id": "Dale",
+        "station_label": " Dale  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.694284369918985,
+          52.36890525394347
+        ]
+      },
+      "properties": {
+        "id": "Dedemsvaart",
+        "station_label": " Dedemsvaart  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.518369433838766,
+          52.17219472907149
+        ]
+      },
+      "properties": {
+        "id": "Eindhoven West",
+        "station_label": " Eindhoven West  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.503251601882214,
+          52.29549616444326
+        ]
+      },
+      "properties": {
+        "id": "Soest",
+        "station_label": " Soest  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.543109927576588,
+          52.26881893916829
+        ]
+      },
+      "properties": {
+        "id": "Veenendaal Wageningselaan",
+        "station_label": " Veenendaal Wageningselaan  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.628768148327528,
+          52.17654487733012
+        ]
+      },
+      "properties": {
+        "id": "Horst",
+        "station_label": " Horst  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.636089811750888,
+          52.397472644303875
+        ]
+      },
+      "properties": {
+        "id": "Steenwijk",
+        "station_label": " Steenwijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.410041911562496,
+          52.41413628634036
+        ]
+      },
+      "properties": {
+        "id": "BBL Gasunie",
+        "station_label": " BBL Gasunie  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.595756955742133,
+          52.07681888424992
+        ]
+      },
+      "properties": {
+        "id": "Schoonbron",
+        "station_label": " Schoonbron  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7070484188261315,
+          52.343025993237625
+        ]
+      },
+      "properties": {
+        "id": "Vroomshoop",
+        "station_label": " Vroomshoop  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.677407896385255,
+          52.25206459215195
+        ]
+      },
+      "properties": {
+        "id": "Ulft",
+        "station_label": " Ulft  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.491664072031938,
+          52.2198888039062
+        ]
+      },
+      "properties": {
+        "id": "s Hertogenbosch West",
+        "station_label": " s Hertogenbosch West  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.703189070887192,
+          52.28816003398062
+        ]
+      },
+      "properties": {
+        "id": "Borculo Berkel",
+        "station_label": " Borculo Berkel  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.566733172464061,
+          52.262444311204554
+        ]
+      },
+      "properties": {
+        "id": "Renkum",
+        "station_label": " Renkum  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.395620269447257,
+          52.33048328373769
+        ]
+      },
+      "properties": {
+        "id": "Vijfhuizen",
+        "station_label": " Vijfhuizen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.644749901320446,
+          52.30843755089741
+        ]
+      },
+      "properties": {
+        "id": "Deventer Bergweide",
+        "station_label": " Deventer Bergweide  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6102856889328825,
+          52.1314770075254
+        ]
+      },
+      "properties": {
+        "id": "Roermond",
+        "station_label": " Roermond  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.558098614650628,
+          52.17746902256734
+        ]
+      },
+      "properties": {
+        "id": "Helmond Zuid",
+        "station_label": " Helmond Zuid  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.405299079835225,
+          52.36818654912419
+        ]
+      },
+      "properties": {
+        "id": "Boekelermeer Zuid",
+        "station_label": " Boekelermeer Zuid  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6358087480154415,
+          52.314128983075136
+        ]
+      },
+      "properties": {
+        "id": "Deventer Platvoet",
+        "station_label": " Deventer Platvoet  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.77977486951085,
+          52.3919060865975
+        ]
+      },
+      "properties": {
+        "id": "Klazienaveen Zwet",
+        "station_label": " Klazienaveen Zwet  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.557744707223881,
+          52.276823255333
+        ]
+      },
+      "properties": {
+        "id": "Ede",
+        "station_label": " Ede  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7359342738130525,
+          52.37632394854161
+        ]
+      },
+      "properties": {
+        "id": "Coevorden Europark",
+        "station_label": " Coevorden Europark  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.512074610430723,
+          52.30918588903211
+        ]
+      },
+      "properties": {
+        "id": "Station Bunschoten",
+        "station_label": " Station Bunschoten  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.223711245596302,
+          52.17817281623608
+        ]
+      },
+      "properties": {
+        "id": "Vlissingen Oost",
+        "station_label": " Vlissingen Oost  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.433014646879365,
+          52.20892770555137
+        ]
+      },
+      "properties": {
+        "id": "Oosteind",
+        "station_label": " Oosteind  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.644114321968184,
+          52.35664608627493
+        ]
+      },
+      "properties": {
+        "id": "Hessenweg",
+        "station_label": " Hessenweg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.591130408814381,
+          52.46610471274842
+        ]
+      },
+      "properties": {
+        "id": "Louwsmeer",
+        "station_label": " Louwsmeer  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.6087542574190765,
+          52.216716206121696
+        ]
+      },
+      "properties": {
+        "id": "Gennep",
+        "station_label": " Gennep  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.658200287923418,
+          52.331063073496814
+        ]
+      },
+      "properties": {
+        "id": "Raalte",
+        "station_label": " Raalte  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.323822508154187,
+          52.251763592562924
+        ]
+      },
+      "properties": {
+        "id": "Gerbrandyweg",
+        "station_label": " Gerbrandyweg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.747617985006529,
+          52.43294128378826
+        ]
+      },
+      "properties": {
+        "id": "Gasselte Kraanlanden",
+        "station_label": " Gasselte Kraanlanden  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3891524167499005,
+          52.21546062198477
+        ]
+      },
+      "properties": {
+        "id": "Zevenbergschenhoek",
+        "station_label": " Zevenbergschenhoek  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.766164098903824,
+          52.31966823695324
+        ]
+      },
+      "properties": {
+        "id": "Oldenzaal",
+        "station_label": " Oldenzaal  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.282317174665132,
+          52.261588675502
+        ]
+      },
+      "properties": {
+        "id": "Maasvlakte",
+        "station_label": " Maasvlakte  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.430540517068335,
+          52.33424190775959
+        ]
+      },
+      "properties": {
+        "id": "Amsterdam Noord Papaverweg",
+        "station_label": " Amsterdam Noord Papaverweg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5863467581813815,
+          52.24391986228951
+        ]
+      },
+      "properties": {
+        "id": "Nijmegen",
+        "station_label": " Nijmegen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.253090933995535,
+          52.18449173841581
+        ]
+      },
+      "properties": {
+        "id": "Goes de Poel",
+        "station_label": " Goes de Poel  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.786022080978493,
+          52.458356256698394
+        ]
+      },
+      "properties": {
+        "id": "Winschoten",
+        "station_label": " Winschoten  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.631812711076542,
+          52.17156896148986
+        ]
+      },
+      "properties": {
+        "id": "Californi\u00eb",
+        "station_label": " Californi\u00eb  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.514792276735212,
+          52.182273762301364
+        ]
+      },
+      "properties": {
+        "id": "Best",
+        "station_label": " Best  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.410432889976164,
+          52.414828095548785
+        ]
+      },
+      "properties": {
+        "id": "Anna Paulowna",
+        "station_label": " Anna Paulowna  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.600234732082477,
+          52.2636659862224
+        ]
+      },
+      "properties": {
+        "id": "Arnhem",
+        "station_label": " Arnhem  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.583281240226019,
+          52.14041331522692
+        ]
+      },
+      "properties": {
+        "id": "Kelpen",
+        "station_label": " Kelpen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.599579283886516,
+          52.20760643299604
+        ]
+      },
+      "properties": {
+        "id": "Boxmeer",
+        "station_label": " Boxmeer  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.431546425702669,
+          52.3526157232471
+        ]
+      },
+      "properties": {
+        "id": "Wijdewormer",
+        "station_label": " Wijdewormer  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.192003502554336,
+          52.1601254879326
+        ]
+      },
+      "properties": {
+        "id": "Oostburg",
+        "station_label": " Oostburg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.691153974364034,
+          52.391050084145476
+        ]
+      },
+      "properties": {
+        "id": "Hoogeveen",
+        "station_label": " Hoogeveen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.527775912776014,
+          52.20206199100874
+        ]
+      },
+      "properties": {
+        "id": "Eerde",
+        "station_label": " Eerde  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.680760759988761,
+          52.35614799771025
+        ]
+      },
+      "properties": {
+        "id": "Ommen Dante",
+        "station_label": " Ommen Dante  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.534940638351822,
+          52.17572655139365
+        ]
+      },
+      "properties": {
+        "id": "Eindhoven",
+        "station_label": " Eindhoven  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.367284348725838,
+          52.307459768983044
+        ]
+      },
+      "properties": {
+        "id": "Sassenheim",
+        "station_label": " Sassenheim  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.744234399514665,
+          52.30884270502427
+        ]
+      },
+      "properties": {
+        "id": "Hengelo Boldershoek",
+        "station_label": " Hengelo Boldershoek  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.558588335226614,
+          52.18605616811825
+        ]
+      },
+      "properties": {
+        "id": "Aarle Rixtel",
+        "station_label": " Aarle Rixtel  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3301820201902865,
+          52.271250211549706
+        ]
+      },
+      "properties": {
+        "id": "Wateringen",
+        "station_label": " Wateringen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.459486388477418,
+          52.200092692980874
+        ]
+      },
+      "properties": {
+        "id": "Tilburg Noord",
+        "station_label": " Tilburg Noord  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.437856808199925,
+          52.31712705388093
+        ]
+      },
+      "properties": {
+        "id": "Bijlmer Zuid",
+        "station_label": " Bijlmer Zuid  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.206404175051512,
+          52.17868188087655
+        ]
+      },
+      "properties": {
+        "id": "Vlissingen",
+        "station_label": " Vlissingen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.572960853822652,
+          52.381717655967165
+        ]
+      },
+      "properties": {
+        "id": "Emmeloord Zuidervaart",
+        "station_label": " Emmeloord Zuidervaart  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.605199451211861,
+          52.090258788358454
+        ]
+      },
+      "properties": {
+        "id": "Treebeek",
+        "station_label": " Treebeek  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.581402542321406,
+          52.3708516950736
+        ]
+      },
+      "properties": {
+        "id": "Ens",
+        "station_label": " Ens  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.768502542836743,
+          52.4869822851684
+        ]
+      },
+      "properties": {
+        "id": "Delfzijl Weiwerd",
+        "station_label": " Delfzijl Weiwerd  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.608673409814101,
+          52.489080635618905
+        ]
+      },
+      "properties": {
+        "id": "Dokkum",
+        "station_label": " Dokkum  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.717962759655555,
+          52.327794628838014
+        ]
+      },
+      "properties": {
+        "id": "Almelo Mosterdpot",
+        "station_label": " Almelo Mosterdpot  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.583831552055193,
+          52.097891047685806
+        ]
+      },
+      "properties": {
+        "id": "Lutterade",
+        "station_label": " Lutterade  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.410583146806136,
+          52.229355849250034
+        ]
+      },
+      "properties": {
+        "id": "Biesbosch",
+        "station_label": " Biesbosch  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.534713096877326,
+          52.17571172290536
+        ]
+      },
+      "properties": {
+        "id": "Eindhoven Oost",
+        "station_label": " Eindhoven Oost  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.5582389642491865,
+          52.44090079253696
+        ]
+      },
+      "properties": {
+        "id": "Sneek",
+        "station_label": " Sneek  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.546127482638385,
+          52.388526467002706
+        ]
+      },
+      "properties": {
+        "id": "Westermeerdijk",
+        "station_label": " Westermeerdijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.3862444849795805,
+          52.3467331388374
+        ]
+      },
+      "properties": {
+        "id": "Velsen",
+        "station_label": " Velsen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.577004694589689,
+          52.23781980944792
+        ]
+      },
+      "properties": {
+        "id": "Teersdijk",
+        "station_label": " Teersdijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4073700672355125,
+          52.20266996089811
+        ]
+      },
+      "properties": {
+        "id": "Breda",
+        "station_label": " Breda  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.768315998013711,
+          52.48600090794663
+        ]
+      },
+      "properties": {
+        "id": "Weiwerd",
+        "station_label": " Weiwerd  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.76406461208645,
+          52.308276697125244
+        ]
+      },
+      "properties": {
+        "id": "Enschede Vechtstraat",
+        "station_label": " Enschede Vechtstraat  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7675753993139285,
+          52.48862900192707
+        ]
+      },
+      "properties": {
+        "id": "Delesto",
+        "station_label": " Delesto  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.302560163569465,
+          52.251006746733275
+        ]
+      },
+      "properties": {
+        "id": "Tinte",
+        "station_label": " Tinte  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.581947796832822,
+          52.46801528641752
+        ]
+      },
+      "properties": {
+        "id": "Leeuwarden",
+        "station_label": " Leeuwarden  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2298501524633005,
+          52.17502044351368
+        ]
+      },
+      "properties": {
+        "id": "Zeeuwse Kust Landstation",
+        "station_label": " Zeeuwse Kust Landstation  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.377801869358151,
+          52.34910960643461
+        ]
+      },
+      "properties": {
+        "id": "North Sea Wind",
+        "station_label": " North Sea Wind  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.754096393934937,
+          52.50650895580546
+        ]
+      },
+      "properties": {
+        "id": "Eemshaven",
+        "station_label": " Eemshaven  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.781010724851165,
+          52.31070319893389
+        ]
+      },
+      "properties": {
+        "id": "Losser",
+        "station_label": " Losser  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7313739859851145,
+          52.264091723540055
+        ]
+      },
+      "properties": {
+        "id": "Winterswijk",
+        "station_label": " Winterswijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.659627519154639,
+          52.26337133242202
+        ]
+      },
+      "properties": {
+        "id": "Doetinchem",
+        "station_label": " Doetinchem  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.608299179401767,
+          52.12883565618214
+        ]
+      },
+      "properties": {
+        "id": "Merum",
+        "station_label": " Merum  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.761980471822424,
+          52.30178992446639
+        ]
+      },
+      "properties": {
+        "id": "Enschede Wesselerbrink",
+        "station_label": " Enschede Wesselerbrink  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.751906881052818,
+          52.508842667171976
+        ]
+      },
+      "properties": {
+        "id": "Eemshaven Synergieweg 380kV",
+        "station_label": " Eemshaven Synergieweg 380kV  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.753018572278949,
+          52.50773053037554
+        ]
+      },
+      "properties": {
+        "id": "Eemshaven Converterstation 380 kV",
+        "station_label": " Eemshaven Converterstation 380 kV  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.427804567599862,
+          52.323977736445826
+        ]
+      },
+      "properties": {
+        "id": "Zorgvlied",
+        "station_label": " Zorgvlied  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.630883922917206,
+          52.2556307321352
+        ]
+      },
+      "properties": {
+        "id": "Zevenaar",
+        "station_label": " Zevenaar  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.492662016853327,
+          52.234607210522206
+        ]
+      },
+      "properties": {
+        "id": "Zaltbommel",
+        "station_label": " Zaltbommel  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.68351166201968,
+          52.45009549165754
+        ]
+      },
+      "properties": {
+        "id": "Norg",
+        "station_label": " Norg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.782097205581638,
+          52.42148758236276
+        ]
+      },
+      "properties": {
+        "id": "Musselkanaal Zandberg",
+        "station_label": " Musselkanaal Zandberg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.746297611293086,
+          52.48470220205675
+        ]
+      },
+      "properties": {
+        "id": "Slochteren Overschild",
+        "station_label": " Slochteren Overschild  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.749974361259533,
+          52.46452272081208
+        ]
+      },
+      "properties": {
+        "id": "Menterwolde Spitsbergen",
+        "station_label": " Menterwolde Spitsbergen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.440782798151921,
+          52.32348741213601
+        ]
+      },
+      "properties": {
+        "id": "Venserweg",
+        "station_label": " Venserweg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7678907282566705,
+          52.488873030464546
+        ]
+      },
+      "properties": {
+        "id": "Delesto",
+        "station_label": " Delesto  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.728062413318667,
+          52.32380659245894
+        ]
+      },
+      "properties": {
+        "id": "Almelo Drienemansweg",
+        "station_label": " Almelo Drienemansweg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.624193252275863,
+          52.28386338337159
+        ]
+      },
+      "properties": {
+        "id": "Eerbeek",
+        "station_label": " Eerbeek  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.59309001307854,
+          52.361115184211755
+        ]
+      },
+      "properties": {
+        "id": "Kampen",
+        "station_label": " Kampen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.420037035756613,
+          52.373446122977924
+        ]
+      },
+      "properties": {
+        "id": "Oterleek",
+        "station_label": " Oterleek  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.538243208170104,
+          52.22841428509259
+        ]
+      },
+      "properties": {
+        "id": "Oss",
+        "station_label": " Oss  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.751960416057165,
+          52.38790001697458
+        ]
+      },
+      "properties": {
+        "id": "Veenoord",
+        "station_label": " Veenoord  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.618557532730764,
+          52.079323962584354
+        ]
+      },
+      "properties": {
+        "id": "Terwinselen",
+        "station_label": " Terwinselen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.623405657081528,
+          52.45247672857594
+        ]
+      },
+      "properties": {
+        "id": "Drachten",
+        "station_label": " Drachten  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.594704798278297,
+          52.214639859764084
+        ]
+      },
+      "properties": {
+        "id": "Haps",
+        "station_label": " Haps  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.490497152563264,
+          52.27727863841559
+        ]
+      },
+      "properties": {
+        "id": "Driebergen",
+        "station_label": " Driebergen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.302523361554543,
+          52.25871810308168
+        ]
+      },
+      "properties": {
+        "id": "Europoort",
+        "station_label": " Europoort  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.466783025322456,
+          52.31093417690953
+        ]
+      },
+      "properties": {
+        "id": "'s Graveland",
+        "station_label": " 's Graveland  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.761923070136751,
+          52.46590951690896
+        ]
+      },
+      "properties": {
+        "id": "Scheemda Scheemderzwaag",
+        "station_label": " Scheemda Scheemderzwaag  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.426263399498995,
+          52.33934329854014
+        ]
+      },
+      "properties": {
+        "id": "Oostzaan",
+        "station_label": " Oostzaan  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.726346948353038,
+          52.32203034584196
+        ]
+      },
+      "properties": {
+        "id": "Almelo Tusveld",
+        "station_label": " Almelo Tusveld  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.76067527598025,
+          52.38244691180838
+        ]
+      },
+      "properties": {
+        "id": "Schoonebeek",
+        "station_label": " Schoonebeek  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.7677191693987675,
+          52.45621849197246
+        ]
+      },
+      "properties": {
+        "id": "Meeden",
+        "station_label": " Meeden  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.695339340795827,
+          52.40045266700775
+        ]
+      },
+      "properties": {
+        "id": "Wijster Oosterscheveld",
+        "station_label": " Wijster Oosterscheveld  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.752147014774082,
+          52.3042993447901
+        ]
+      },
+      "properties": {
+        "id": "Enschede Marssteden",
+        "station_label": " Enschede Marssteden  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.62693056394542,
+          52.373789816277295
+        ]
+      },
+      "properties": {
+        "id": "Zwartsluis",
+        "station_label": " Zwartsluis  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.641457640899184,
+          52.163927540357534
+        ]
+      },
+      "properties": {
+        "id": "Blerick",
+        "station_label": " Blerick  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.623839310633777,
+          52.13463340235159
+        ]
+      },
+      "properties": {
+        "id": "Maalbroek",
+        "station_label": " Maalbroek  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4215346886406826,
+          52.33499410300183
+        ]
+      },
+      "properties": {
+        "id": "Amsterdam Hemweg",
+        "station_label": " Amsterdam Hemweg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.762701079621787,
+          52.403399497371765
+        ]
+      },
+      "properties": {
+        "id": "Emmen Weerdingen",
+        "station_label": " Emmen Weerdingen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.730301045176792,
+          52.461983981965076
+        ]
+      },
+      "properties": {
+        "id": "Kropswolde",
+        "station_label": " Kropswolde  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.449532991566778,
+          52.20091749740208
+        ]
+      },
+      "properties": {
+        "id": "Tilburg West",
+        "station_label": " Tilburg West  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.443934249306779,
+          52.29458673242807
+        ]
+      },
+      "properties": {
+        "id": "Breukelen Kortrijk",
+        "station_label": " Breukelen Kortrijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.450261748914594,
+          52.32424833872764
+        ]
+      },
+      "properties": {
+        "id": "Diemer Vijfhoek",
+        "station_label": " Diemer Vijfhoek  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.367762308664609,
+          52.27427686877419
+        ]
+      },
+      "properties": {
+        "id": "Bleiswijk",
+        "station_label": " Bleiswijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.601871384692461,
+          52.37977965098704
+        ]
+      },
+      "properties": {
+        "id": "Vollenhove",
+        "station_label": " Vollenhove  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.283029999712998,
+          52.26629095633128
+        ]
+      },
+      "properties": {
+        "id": "Hollandse Kust Zuid Landstation",
+        "station_label": " Hollandse Kust Zuid Landstation  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.396265044633448,
+          52.33035740776367
+        ]
+      },
+      "properties": {
+        "id": "Vijfhuizen",
+        "station_label": " Vijfhuizen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.591310267410748,
+          52.43011165376433
+        ]
+      },
+      "properties": {
+        "id": "Oudehaske",
+        "station_label": " Oudehaske  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.4540235168616675,
+          52.19081375404761
+        ]
+      },
+      "properties": {
+        "id": "Tilburg Zuid",
+        "station_label": " Tilburg Zuid  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.554865841264984,
+          52.214121473986935
+        ]
+      },
+      "properties": {
+        "id": "Uden",
+        "station_label": " Uden  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.697700785334026,
+          52.41630759407352
+        ]
+      },
+      "properties": {
+        "id": "Beilen",
+        "station_label": " Beilen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.566735514339169,
+          52.40903377357856
+        ]
+      },
+      "properties": {
+        "id": "Lemmer",
+        "station_label": " Lemmer  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.2698943347054,
+          52.18035213697201
+        ]
+      },
+      "properties": {
+        "id": "Willem Anna Polder",
+        "station_label": " Willem Anna Polder  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.281145572323493,
+          52.1804013163634
+        ]
+      },
+      "properties": {
+        "id": "Kruiningen",
+        "station_label": " Kruiningen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.556083803549041,
+          52.14213175146265
+        ]
+      },
+      "properties": {
+        "id": "Weertheide",
+        "station_label": " Weertheide  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.765086967204263,
+          52.46427014021971
+        ]
+      },
+      "properties": {
+        "id": "Scheemda",
+        "station_label": " Scheemda  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.570186954545949,
+          52.45162953379376
+        ]
+      },
+      "properties": {
+        "id": "Rauwerd",
+        "station_label": " Rauwerd  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.39910389317043,
+          52.19850456165057
+        ]
+      },
+      "properties": {
+        "id": "Princenhage",
+        "station_label": " Princenhage  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.644089828864862,
+          52.38199339905772
+        ]
+      },
+      "properties": {
+        "id": "Meppel",
+        "station_label": " Meppel  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.338907878773272,
+          52.27562270805314
+        ]
+      },
+      "properties": {
+        "id": "Ypenburg",
+        "station_label": " Ypenburg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.613854847100078,
+          52.30895365921906
+        ]
+      },
+      "properties": {
+        "id": "Zuidbroek",
+        "station_label": " Zuidbroek  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.54704623188845,
+          52.141066893178056
+        ]
+      },
+      "properties": {
+        "id": "Budel",
+        "station_label": " Budel  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.745871326966191,
+          52.30964316197365
+        ]
+      },
+      "properties": {
+        "id": "Hengelo Salinco",
+        "station_label": " Hengelo Salinco  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.711775354515334,
+          52.36414925130877
+        ]
+      },
+      "properties": {
+        "id": "Hardenberg",
+        "station_label": " Hardenberg  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.656872953816958,
+          52.433266320169366
+        ]
+      },
+      "properties": {
+        "id": "Oosterwolde",
+        "station_label": " Oosterwolde  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.634885926262933,
+          52.1550147102196
+        ]
+      },
+      "properties": {
+        "id": "Belfeld",
+        "station_label": " Belfeld  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.727699970943684,
+          52.32382826109098
+        ]
+      },
+      "properties": {
+        "id": "Almelo Urenco",
+        "station_label": " Almelo Urenco  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.587282073475087,
+          52.25815098144205
+        ]
+      },
+      "properties": {
+        "id": "Elst",
+        "station_label": " Elst  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.375084468861811,
+          52.21227275271492
+        ]
+      },
+      "properties": {
+        "id": "Moerdijk",
+        "station_label": " Moerdijk  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.612996846383587,
+          52.19143572885176
+        ]
+      },
+      "properties": {
+        "id": "Venray",
+        "station_label": " Venray  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.580178064711305,
+          52.10145519001563
+        ]
+      },
+      "properties": {
+        "id": "Graetheide",
+        "station_label": " Graetheide  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.52011216456534,
+          52.17796020285758
+        ]
+      },
+      "properties": {
+        "id": "Eindhoven Noord",
+        "station_label": " Eindhoven Noord  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.343435881625494,
+          52.205432251707414
+        ]
+      },
+      "properties": {
+        "id": "Dinteloord",
+        "station_label": " Dinteloord  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.611713052584924,
+          52.152205262925776
+        ]
+      },
+      "properties": {
+        "id": "Helden",
+        "station_label": " Helden  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.784735390031768,
+          52.42273647583347
+        ]
+      },
+      "properties": {
+        "id": "Musselkanaal Dobbestroom",
+        "station_label": " Musselkanaal Dobbestroom  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.611400769100726,
+          52.318737682713255
+        ]
+      },
+      "properties": {
+        "id": "Vaassen",
+        "station_label": " Vaassen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.672639023714343,
+          52.35062125479388
+        ]
+      },
+      "properties": {
+        "id": "Ommen Vilsteren",
+        "station_label": " Ommen Vilsteren  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.453603604438151,
+          52.39941993384225
+        ]
+      },
+      "properties": {
+        "id": "Middenmeer",
+        "station_label": " Middenmeer  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.765759947886339,
+          52.449264498667894
+        ]
+      },
+      "properties": {
+        "id": "Veendam Zuidwending",
+        "station_label": " Veendam Zuidwending  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.762674904757423,
+          52.48055734860394
+        ]
+      },
+      "properties": {
+        "id": "Delfzijl Schaapsbulten",
+        "station_label": " Delfzijl Schaapsbulten  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.75117325135677,
+          52.51061710627128
+        ]
+      },
+      "properties": {
+        "id": "Doekegat",
+        "station_label": " Doekegat  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.281795244304571,
+          52.26140349365269
+        ]
+      },
+      "properties": {
+        "id": "Maasvlakte",
+        "station_label": " Maasvlakte  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.590699938529197,
+          52.42980348216224
+        ]
+      },
+      "properties": {
+        "id": "Oudehaske",
+        "station_label": " Oudehaske  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.63341693231575,
+          52.3515088321466
+        ]
+      },
+      "properties": {
+        "id": "Zwolle Weteringkade",
+        "station_label": " Zwolle Weteringkade  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.623645288174582,
+          52.35502474187609
+        ]
+      },
+      "properties": {
+        "id": "Zwolle Frankhuis",
+        "station_label": " Zwolle Frankhuis  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.523809362333002,
+          52.16939531324414
+        ]
+      },
+      "properties": {
+        "id": "Eindhoven Zuid",
+        "station_label": " Eindhoven Zuid  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.609566111971888,
+          52.08468838857003
+        ]
+      },
+      "properties": {
+        "id": "Beersdal",
+        "station_label": " Beersdal  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.426804823822031,
+          52.31656296738082
+        ]
+      },
+      "properties": {
+        "id": "Amstelveen",
+        "station_label": " Amstelveen  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.598868745665341,
+          52.20740532542671
+        ]
+      },
+      "properties": {
+        "id": "Boxmeer",
+        "station_label": " Boxmeer  "
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5.598868745665341,
+          52.20740532542671
+        ]
+      },
+      "properties": {
+        "id": "Boxmeer",
+        "station_label": " Boxmeer  "
+      }
+    }
+  ]
+}
