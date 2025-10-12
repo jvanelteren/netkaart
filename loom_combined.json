@@ -6595,47 +6595,13 @@
             52.26438548519383
           ],
           [
-            5.568464342695006,
-            52.22375628339431
+            5.54633018786177,
+            52.28844303283708
           ]
         ]
       },
       "properties": {
         "identifier": "508142_1",
-        "from": "Boxmeer",
-        "to": "Maasbracht",
-        "dbg_lines": "380",
-        "spanning": "380",
-        "lines": [
-          {
-            "color": "red",
-            "id": "380"
-          }
-        ],
-        "fromto": [
-          "380",
-          "Boxmeer",
-          "Maasbracht"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            5.567589315336522,
-            52.26438548519383
-          ],
-          [
-            5.546426104502414,
-            52.28843477658211
-          ]
-        ]
-      },
-      "properties": {
-        "identifier": "508142_2",
         "from": "Boxmeer",
         "to": "Dodewaard",
         "dbg_lines": "380",
@@ -6650,6 +6616,40 @@
           "380",
           "Boxmeer",
           "Dodewaard"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.567589315336522,
+            52.26438548519383
+          ],
+          [
+            5.568464342695006,
+            52.22375628339431
+          ]
+        ]
+      },
+      "properties": {
+        "identifier": "508142_2",
+        "from": "Boxmeer",
+        "to": "Maasbracht",
+        "dbg_lines": "380",
+        "spanning": "380",
+        "lines": [
+          {
+            "color": "red",
+            "id": "380"
+          }
+        ],
+        "fromto": [
+          "380",
+          "Boxmeer",
+          "Maasbracht"
         ]
       }
     },
@@ -8165,7 +8165,7 @@
         ]
       },
       "properties": {
-        "identifier": "350916_1",
+        "identifier": "350916_2",
         "from": "Princenhage",
         "to": "Roosendaal",
         "dbg_lines": "150",
@@ -8533,8 +8533,8 @@
             52.25090460167019
           ],
           [
-            5.402781460301998,
-            52.250819815489045
+            5.402588258736366,
+            52.2508633995592
           ]
         ]
       },
@@ -8588,40 +8588,6 @@
           "150",
           "Goes de Poel",
           "Middelburg"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            5.423912187069179,
-            52.246973129981605
-          ],
-          [
-            5.40823010810438,
-            52.250903978255586
-          ]
-        ]
-      },
-      "properties": {
-        "identifier": "2387343_1",
-        "from": "Rilland",
-        "to": "Kruiningen",
-        "dbg_lines": "150",
-        "spanning": "150",
-        "lines": [
-          {
-            "color": "blue",
-            "id": "150"
-          }
-        ],
-        "fromto": [
-          "150",
-          "Kruiningen",
-          "Rilland"
         ]
       }
     },
@@ -9145,8 +9111,8 @@
             52.32236708601787
           ],
           [
-            5.486733016337843,
-            52.31919767997864
+            5.486732903707353,
+            52.319197804910594
           ]
         ]
       },
@@ -9948,40 +9914,6 @@
           "150",
           "Biesbosch",
           "Geertruidenberg"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            5.597639071336913,
-            52.292328826856235
-          ],
-          [
-            5.606593910206414,
-            52.28669783297066
-          ]
-        ]
-      },
-      "properties": {
-        "identifier": "1706977_1",
-        "from": "Doetinchem",
-        "to": "Ulft",
-        "dbg_lines": "150",
-        "spanning": "150",
-        "lines": [
-          {
-            "color": "blue",
-            "id": "150"
-          }
-        ],
-        "fromto": [
-          "150",
-          "Doetinchem",
-          "Ulft"
         ]
       }
     },
@@ -12443,15 +12375,15 @@
             52.336024365234266
           ],
           [
-            5.535694720083227,
-            52.34234498578407
+            5.540657880320125,
+            52.33203038542102
           ]
         ]
       },
       "properties": {
         "identifier": "1664227_1",
         "from": "Zuiderveld",
-        "to": "Lelystad",
+        "to": "Kubbetocht",
         "dbg_lines": "150",
         "spanning": "150",
         "lines": [
@@ -12462,7 +12394,7 @@
         ],
         "fromto": [
           "150",
-          "Lelystad",
+          "Kubbetocht",
           "Zuiderveld"
         ]
       }
@@ -12477,15 +12409,15 @@
             52.336024365234266
           ],
           [
-            5.540657880320125,
-            52.33203038542102
+            5.535694720083227,
+            52.34234498578407
           ]
         ]
       },
       "properties": {
         "identifier": "1664227_2",
         "from": "Zuiderveld",
-        "to": "Kubbetocht",
+        "to": "Lelystad",
         "dbg_lines": "150",
         "spanning": "150",
         "lines": [
@@ -12496,7 +12428,7 @@
         ],
         "fromto": [
           "150",
-          "Kubbetocht",
+          "Lelystad",
           "Zuiderveld"
         ]
       }
@@ -13599,8 +13531,8 @@
             52.237662678310485
           ],
           [
-            5.535238934084332,
-            52.24824163929049
+            5.535368004949432,
+            52.248040264676156
           ]
         ]
       },
@@ -13667,8 +13599,8 @@
             52.2452859724655
           ],
           [
-            5.535368004949432,
-            52.248040264676156
+            5.535238934084332,
+            52.24824163929049
           ]
         ]
       },
@@ -15469,8 +15401,8 @@
             52.347563068330494
           ],
           [
-            5.568851624956311,
-            52.350527579995365
+            5.568850064191672,
+            52.35052905662784
           ]
         ]
       },
@@ -15911,8 +15843,8 @@
             52.325700515491675
           ],
           [
-            5.626951440317929,
-            52.32462738919924
+            5.626954378225044,
+            52.324627322036
           ]
         ]
       },
@@ -16387,47 +16319,13 @@
             52.39412563539782
           ],
           [
-            5.563457176502123,
-            52.393714871254915
+            5.533369767293484,
+            52.393051100973956
           ]
         ]
       },
       "properties": {
         "identifier": "1662955_1",
-        "from": "Schenkenschans",
-        "to": "Louwsmeer",
-        "dbg_lines": "110",
-        "spanning": "110",
-        "lines": [
-          {
-            "color": "black",
-            "id": "110"
-          }
-        ],
-        "fromto": [
-          "110",
-          "Louwsmeer",
-          "Schenkenschans"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            5.555135955296076,
-            52.39412563539782
-          ],
-          [
-            5.533368158380904,
-            52.393049148010086
-          ]
-        ]
-      },
-      "properties": {
-        "identifier": "1662955_2",
         "from": "Schenkenschans",
         "to": "Herbayum",
         "dbg_lines": "110",
@@ -16451,12 +16349,46 @@
         "type": "LineString",
         "coordinates": [
           [
+            5.555135955296076,
+            52.39412563539782
+          ],
+          [
+            5.563455213230577,
+            52.39371353306998
+          ]
+        ]
+      },
+      "properties": {
+        "identifier": "1662955_2",
+        "from": "Schenkenschans",
+        "to": "Louwsmeer",
+        "dbg_lines": "110",
+        "spanning": "110",
+        "lines": [
+          {
+            "color": "black",
+            "id": "110"
+          }
+        ],
+        "fromto": [
+          "110",
+          "Louwsmeer",
+          "Schenkenschans"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
             5.533368158380904,
             52.393049148010086
           ],
           [
-            5.5634591151889135,
-            52.39371617951221
+            5.563455213230577,
+            52.39371353306998
           ]
         ]
       },
@@ -16591,15 +16523,15 @@
             52.392937048672174
           ],
           [
-            5.65112298290518,
-            52.38897026302116
+            5.63277157845964,
+            52.39159406120703
           ]
         ]
       },
       "properties": {
         "identifier": "397627_1",
         "from": "Menterwolde Spitsbergen",
-        "to": "Meeden",
+        "to": "Kropswolde",
         "dbg_lines": "110",
         "spanning": "110",
         "lines": [
@@ -16610,7 +16542,7 @@
         ],
         "fromto": [
           "110",
-          "Meeden",
+          "Kropswolde",
           "Menterwolde Spitsbergen"
         ]
       }
@@ -16625,15 +16557,15 @@
             52.392937048672174
           ],
           [
-            5.63277157845964,
-            52.39159406120703
+            5.65112298290518,
+            52.38897026302116
           ]
         ]
       },
       "properties": {
         "identifier": "397627_2",
         "from": "Menterwolde Spitsbergen",
-        "to": "Kropswolde",
+        "to": "Meeden",
         "dbg_lines": "110",
         "spanning": "110",
         "lines": [
@@ -16644,7 +16576,7 @@
         ],
         "fromto": [
           "110",
-          "Kropswolde",
+          "Meeden",
           "Menterwolde Spitsbergen"
         ]
       }
@@ -16727,47 +16659,13 @@
             52.40097158339373
           ],
           [
-            5.6412059598139415,
-            52.40271390008738
-          ]
-        ]
-      },
-      "properties": {
-        "identifier": "390275_1",
-        "from": "Delfzijl Schaapsbulten",
-        "to": "Slochteren Dellerweerden",
-        "dbg_lines": "110",
-        "spanning": "110",
-        "lines": [
-          {
-            "color": "black",
-            "id": "110"
-          }
-        ],
-        "fromto": [
-          "110",
-          "Delfzijl Schaapsbulten",
-          "Slochteren Dellerweerden"
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            5.649037387025777,
-            52.40097158339373
-          ],
-          [
             5.651851493013793,
             52.40415880115662
           ]
         ]
       },
       "properties": {
-        "identifier": "390275_2",
+        "identifier": "390275_1",
         "from": "Delfzijl Schaapsbulten",
         "to": "Delfzijl Weiwerd",
         "dbg_lines": "110",
@@ -16782,6 +16680,40 @@
           "110",
           "Delfzijl Schaapsbulten",
           "Delfzijl Weiwerd"
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            5.649037387025777,
+            52.40097158339373
+          ],
+          [
+            5.6412059598139415,
+            52.40271390008738
+          ]
+        ]
+      },
+      "properties": {
+        "identifier": "390275_2",
+        "from": "Delfzijl Schaapsbulten",
+        "to": "Slochteren Dellerweerden",
+        "dbg_lines": "110",
+        "spanning": "110",
+        "lines": [
+          {
+            "color": "black",
+            "id": "110"
+          }
+        ],
+        "fromto": [
+          "110",
+          "Delfzijl Schaapsbulten",
+          "Slochteren Dellerweerden"
         ]
       }
     },
